@@ -1,6 +1,6 @@
 # Recipe Book - Udemy course project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+Build a recipe book and a shopping list using Angular.
 
 ## Development server
 
